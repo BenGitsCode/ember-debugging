@@ -34,6 +34,7 @@ By the end of this, developers should be able to:
 
 - [Debugging Ember](https://guides.emberjs.com/v1.12.0/understanding-ember/debugging/)
 - [Debugging Ember-cli](http://presentationtier.com/tips-for-debugging-ember-cli/)
+- [Debugging Ember.js and Ember Data](http://www.akshay.cc/blog/2013-02-22-debugging-ember-js-and-ember-data.html)
 
 ## [License](LICENSE)
 
