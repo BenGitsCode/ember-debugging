@@ -2,7 +2,7 @@
 
 # Ember Debugging Guide
 
-Use this guide to deploy Ember apps based on our [Ember Template](https://github.com/ga-wdi-boston/ember-template)
+Use this guide to aid in debugging Ember apps based on our [Ember Template](https://github.com/ga-wdi-boston/ember-template)
 to GitHub Pages.
 
 ## Prerequisites
@@ -12,9 +12,10 @@ to GitHub Pages.
 
 ## Objectives
 
-By the end of this, developers should be able to:
+Using this guide, developers should be able to:
 
--   Deploy an Ember app to GitHub Pages
+-  Identify common Ember bugs and debug them.
+-  Identify and use ember debugging tools and techniques.
 
 ## Debugging Ember
 
